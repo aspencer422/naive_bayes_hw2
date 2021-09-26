@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Anthony Spencer
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: naive_bayes.py
+# SPECIFICATION: naive  Beyes file for class
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 1 hour 30 min
 #-----------------------------------------------------------*/
